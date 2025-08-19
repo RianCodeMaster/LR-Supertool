@@ -1,3 +1,5 @@
+Interactive Streamlit app for reading practice with automatic word-by-word and sentence translations (Dutch ⇄ Arabic).
+
 # Language Reader Supertool
 
 An interactive Streamlit app for learning languages.  
